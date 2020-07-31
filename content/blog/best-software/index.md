@@ -1,6 +1,6 @@
 ---
-title: The Best Organizer Software
-date: 2017-09-12 00:00:00 +0300
+title: My First Blog Post
+date: 2020-07-31 00:00:00 +0300
 description: # Add post description (optional)
 img: ./software.jpg # Add image post (optional)
 tags: [High Productivity, Software] # add tag
